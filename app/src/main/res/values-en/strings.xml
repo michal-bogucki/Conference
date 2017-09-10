@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikacja Konferencje Naukowe</string>
+    <string name="zaloguj">Log in</string>
+    <string name="nie_pami_tasz_has_a">Forgot password?</string>
+    <string name="has_o">Password</string>
+    <string name="email">Email</string>
+    <string name="za_konto">Create Account</string>
+    <string name="Uzupełnijemailihasło">Add email and password</string>
+    <string name="Required">Required.</string>
+    <string name="rejestracja">Registration</string>
+    <string name="Moje_Konto">Moje konto</string>
+    <string name="Ustawienia">Ustawienia</string>
+    <string name="Moje_konferencje">Moje konferencje</string>
+    <string name="Dodaj_konferencję">Dodaj konferencję</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Aplikacja Konferencje Naukowe</string>
+    <string name="zaloguj">Zaloguj</string>
+    <string name="nie_pami_tasz_has_a">Nie pamiętasz hasła?</string>
+    <string name="has_o">Hasło</string>
+    <string name="email">Email</string>
+    <string name="za_konto">Utwórz konto</string>
+    <string name="Uzupełnijemailihasło">Uzupełnij email i hasło</string>
+    <string name="Required">Uzupełnij.</string>
+    <string name="rejestracja">Rejestracja</string>
+    <string name="Moje_Konto">Moje konto</string>
+    <string name="Ustawienia">Ustawienia</string>
+    <string name="Moje_konferencje">Moje konferencje</string>
+    <string name="Dodaj_konferencję">Dodaj konferencję</string>
+    <string name="ZlyAdres">Nieprawidłowy adres email</string>
+    <string name="Haslo5Znaków">Hasło musi mieć więcej niż 5 znaków</string>
+    <string name="zledane">Niepoprawne dane do logowania</string>
+    <string name="podajAdresEmail">Podaj adres email</string>
+    <string name="wyloguj">Wyloguj</string>
+    <string name="takiuzytkownikjuzistnieje">Taki użytkownik już istnieje</string>
+    <string name="error">Wystąpił problem. Spróbuj ponownie.</string>
+    <string name="haslo">Dalsze instrukcje wysłaliśmy na adres mailowy</string>
+</resources>
